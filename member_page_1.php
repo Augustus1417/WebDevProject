@@ -15,7 +15,7 @@
 <body>
 	<div id="container">
         <?php include('header.php'); ?>
-        <?php include('navigations/member2-nav.php'); ?>
+        <?php include('navigations/member1-nav.php'); ?>
 		<div id='homepage'>
 			<div id="content">
 				<h2>Let's Learn!</h2>
