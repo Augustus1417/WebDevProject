@@ -50,7 +50,7 @@
 								<div id = 'edit-success'>
 									<h2>Notice:</h2> 
 									<p class='error'>User info edited successfully.</p>
-									<p class='error'>Click <a href='register-view-users.php'>Here</a> to see changes.</p>
+									<p class='error'>Click <a id='edt-scc'href='register-view-users.php'>HERE</a> to see changes.</p>
 								</div>";
 							} else {
 								echo "

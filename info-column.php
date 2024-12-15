@@ -1,4 +1,4 @@
 <div id="info_col">
-	<h3>Info Column ni Jed Cruz</h3>
-	<p>Web design by<br/>Jed Cruz</p>
+	<h3>Did you know?</h3>
+	<p>This website is a project made by Jed Cruz!</br></br>It is also powered by PHP!</p>
 </div>

@@ -1,3 +1,3 @@
 <div id='header'>
-	<h1 id='header'>Site ni Jed Cruz</h1>
+	<h1 id='header'>LearnCode</h1>
 </div>

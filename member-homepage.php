@@ -8,7 +8,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<title>Website ni Cruz </title>
+	<title>LearnCode</title>
 	<meta charset = "utf-8">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
@@ -18,9 +18,13 @@
         <?php include('navigations/member-nav.php'); ?>
 		<div id='homepage'>
 			<div id="content">
-				<h2>Welcome to Jed Cruz's Website! </h2>
-				<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Velit mi arcu habitant tincidunt montes convallis pharetra imperdiet. Praesent platea varius lorem ante, viverra fames quis. Tincidunt feugiat sapien accumsan non elit scelerisque eu imperdiet. Dis mauris neque vivamus egestas proin parturient egestas a erat. Tempor commodo cursus dolor taciti sociosqu ornare. Ultricies est aptent non sit felis nec aliquet. Neque enim laoreet eget iaculis ullamcorper semper quisque a elit. Elit efficitur ultrices proin suscipit posuere ultricies conubia.</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium commodi quod quo ipsam cum hic velit vero eos eligendi numquam corrupti, voluptates quasi soluta aliquam, iste ipsum architecto! Et, quo?</p></p>
+				<h2>Welcome Back to LearnCode!</h2>
+				<p>Ready to level up your coding skills today? Dive back into your lessons, check your progress, or explore new challenges. </br></br>Here’s what you can do:</p>
+                <ul>
+                    <a href="member_page_1.php" class="member_lnk"><li class="not-todo">Continue Learning: Pick up where you left off and complete your next lesson.</li></a>
+                    <a href="member_page_2.php" class="member_lnk"><li class="not-todo">Explore Resources: Access helpful guides, code snippets, and tips to enhance your learning.</li></a>
+                </ul>
+                <p>Remember, every line of code you write takes you one step closer to mastering web development. Let’s get started!</p></p>
 			</div>
                 
         </div>

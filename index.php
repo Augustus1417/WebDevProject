@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<title>Website ni Cruz </title>
+	<title>LearnCode</title>
 	<meta charset = "utf-8">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>
@@ -12,9 +12,12 @@
 		<div id='homepage'>
 			<?php include('info-column.php'); ?>
 			<div id="content">
-				<h2>This is the homepage ni Jed Cruz</h2>
-				<p>Lorem ipsum odor amet, consectetuer adipiscing elit. Velit mi arcu habitant tincidunt montes convallis pharetra imperdiet. Praesent platea varius lorem ante, viverra fames quis. Tincidunt feugiat sapien accumsan non elit scelerisque eu imperdiet. Dis mauris neque vivamus egestas proin parturient egestas a erat. Tempor commodo cursus dolor taciti sociosqu ornare. Ultricies est aptent non sit felis nec aliquet. Neque enim laoreet eget iaculis ullamcorper semper quisque a elit. Elit efficitur ultrices proin suscipit posuere ultricies conubia.</p>
-				<p>Nam laoreet nunc ultricies congue lacinia primis. Feugiat mus lacus leo litora netus viverra. Massa finibus metus tellus potenti; consectetur vitae tellus in adipiscing? Suspendisse vulputate commodo taciti commodo ad sem curabitur. Cursus potenti sed curabitur vitae est massa vel maximus volutpat. Aliquet neque egestas arcu magna inceptos velit.</p>
+				<h2>Welcome to LearnCode!</h2>
+				<p>Are you ready to start your journey into the world of web development? At LearnCode, we make it simple and fun to learn the basics of HTML, CSS, and JavaScript—the building blocks of every website you visit.</p>
+                <img id="homepic" src="images/homepic.png">
+				<p>Whether you're a total beginner or just brushing up on your skills, you'll find easy-to-follow lessons, hands-on examples, and interactive exercises to help you build your first website from scratch.
+
+Start learning today, and unlock the power to create amazing things on the web!</p>
 			</div>
 		</div>
 		<?php include('footer.php'); ?>

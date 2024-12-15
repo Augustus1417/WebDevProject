@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<title>Website ni Cruz</title>
+	<title>LearnCode</title>
 	<meta charset = "utf-8">
 	<link rel="stylesheet" type="text/css" href="styles.css">
 </head>

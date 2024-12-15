@@ -337,9 +337,33 @@ li:hover{
     color: #BDC3C7;
 }
 
+.not-todo {
+	text-decoration: none !important;
+	width: 90%;
+	padding: 20px;
+}
+
 .completed {
     text-decoration: line-through;
     text-decoration-thickness: 3px;
     text-decoration-color: hsl(143, 80%, 33%);
     color: #BDC3C7;
+}
+
+#homepic{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	width: 50%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#edt-scc {
+	color: var(--HoverBlue);
+	font-weight: bold;
+}
+.member_lnk {
+	text-decoration: none;
+	color: white;
 }
