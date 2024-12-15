@@ -10,7 +10,6 @@
 		<?php include('header.php'); ?>
 		<?php include('navigations/index-nav.php'); ?>
 		<div id='homepage'>
-			<?php include('info-column.php'); ?>
 			<div id="content">
 				<h2>Welcome to LearnCode!</h2>
 				<p>Are you ready to start your journey into the world of web development? At LearnCode, we make it simple and fun to learn the basics of HTML, CSS, and JavaScript—the building blocks of every website you visit.</p>
@@ -19,6 +18,7 @@
 
 Start learning today, and unlock the power to create amazing things on the web!</p>
 			</div>
+			<?php include('info-column.php'); ?>
 		</div>
 		<?php include('footer.php'); ?>
 	</div>
